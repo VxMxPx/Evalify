@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Evalify
+GenericName=Evalify
+Comment=Eval PHP Code
+Exec=evalify
+Icon=evalify
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;Utility;
